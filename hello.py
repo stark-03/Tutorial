@@ -10,3 +10,12 @@ def addition(a,b):
     return (a+b)
 result = addition(a,b)
 print("sum of 2 numbers = ", result)
+
+
+
+
+# code to divide 2 nos
+def divide(a, b):
+    print(a/b)
+
+divide(10, 2)
